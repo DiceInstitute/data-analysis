@@ -1,3 +1,9 @@
 We're trying to analyse ETH, DOGE, BITCOIN and EOS coins. Price prediction of Crypto Currency.
 
 Anybody can contribute. Used the simple library prophet for time series analysis.
+
+Expectations from the contributors:
+1. What else we can use to predict more accurately.
+2. What are the things better here and what are the missing things.
+3. How to use other stock market processes here.
+4. How to export or show the predicted price here as text format not in the graph.
